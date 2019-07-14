@@ -1,2 +1,2 @@
 # MG_Python
-Pthon_Practice
+Python_Practice
